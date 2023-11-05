@@ -2,7 +2,7 @@
 //  EntainTaskApp.swift
 //  EntainTask
 //
-//  Created by Dipesh Dhakal on 25/10/2023.
+//  Created by Dipesh Dhakal on 27/10/2023.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct EntainTaskApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RaceListView()
         }
     }
 }

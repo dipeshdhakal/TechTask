@@ -7,13 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F051C482AF742FD003FF466 /* RaceManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F051C472AF742FC003FF466 /* RaceManagerTests.swift */; };
+		2F051C4A2AF76D60003FF466 /* RaceListViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F051C492AF76D5F003FF466 /* RaceListViewModelTests.swift */; };
+		2F051C4E2AF76FA8003FF466 /* RacesScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F051C4C2AF76FA8003FF466 /* RacesScreen.swift */; };
+		2F051C4F2AF76FA8003FF466 /* TestingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F051C4D2AF76FA8003FF466 /* TestingScreen.swift */; };
+		2F051C512AF7701D003FF466 /* RaceListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F051C502AF7701D003FF466 /* RaceListUITests.swift */; };
+		2F0840332AE8B8F6007162E2 /* RaceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0840322AE8B8F6007162E2 /* RaceListView.swift */; };
+		2F0840362AE8B955007162E2 /* RaceListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0840352AE8B955007162E2 /* RaceListViewModel.swift */; };
+		2F0840392AE8BC46007162E2 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0840382AE8BC46007162E2 /* Endpoint.swift */; };
+		2F08403C2AE8BC91007162E2 /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F08403B2AE8BC91007162E2 /* HTTPClient.swift */; };
+		2F08403E2AE8BD13007162E2 /* RaceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F08403D2AE8BD13007162E2 /* RaceService.swift */; };
+		2F0840402AE8C1EF007162E2 /* RacesEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F08403F2AE8C1EF007162E2 /* RacesEndpoint.swift */; };
+		2F0840432AE8C2CF007162E2 /* RacesResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0840422AE8C2CF007162E2 /* RacesResponse.swift */; };
+		2F0840452AE8C44E007162E2 /* RacesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0840442AE8C44E007162E2 /* RacesManager.swift */; };
+		2F0840482AE8C5A8007162E2 /* Mockable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0840472AE8C5A8007162E2 /* Mockable.swift */; };
+		2F08404A2AE8C5C8007162E2 /* RacesServiceMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0840492AE8C5C8007162E2 /* RacesServiceMock.swift */; };
+		2F08404C2AE8C693007162E2 /* RacesServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F08404B2AE8C693007162E2 /* RacesServiceTests.swift */; };
 		2F445EC32AE87BCF002ACC0F /* EntainTaskApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F445EC22AE87BCF002ACC0F /* EntainTaskApp.swift */; };
-		2F445EC52AE87BCF002ACC0F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F445EC42AE87BCF002ACC0F /* ContentView.swift */; };
 		2F445EC72AE87BD2002ACC0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F445EC62AE87BD2002ACC0F /* Assets.xcassets */; };
 		2F445ECA2AE87BD2002ACC0F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F445EC92AE87BD2002ACC0F /* Preview Assets.xcassets */; };
-		2F445ED42AE87BD2002ACC0F /* EntainTaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F445ED32AE87BD2002ACC0F /* EntainTaskTests.swift */; };
-		2F445EDE2AE87BD2002ACC0F /* EntainTaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F445EDD2AE87BD2002ACC0F /* EntainTaskUITests.swift */; };
-		2F445EE02AE87BD2002ACC0F /* EntainTaskUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F445EDF2AE87BD2002ACC0F /* EntainTaskUITestsLaunchTests.swift */; };
+		2F54418E2AF0A9CA001F254C /* Selectable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F54418D2AF0A9CA001F254C /* Selectable.swift */; };
+		2F5441902AF12537001F254C /* RaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F54418F2AF12537001F254C /* RaceView.swift */; };
+		2F5441922AF12BE3001F254C /* Date+Format.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5441912AF12BE3001F254C /* Date+Format.swift */; };
+		2F65B1182AF7D1E4007FF41A /* GlobalConvenienceMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F65B1172AF7D1E4007FF41A /* GlobalConvenienceMethods.swift */; };
+		2FC6371A2AEB6EF0008EDC07 /* race_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 2FC637192AEB6EF0008EDC07 /* race_response.json */; };
+		2FC6371C2AEB72E1008EDC07 /* RacesManagable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC6371B2AEB72E1008EDC07 /* RacesManagable.swift */; };
+		2FC6371E2AEB7B54008EDC07 /* RaceDisplayable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC6371D2AEB7B54008EDC07 /* RaceDisplayable.swift */; };
+		2FC637212AEBBEA7008EDC07 /* RacesManagable+Mock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC637202AEBBEA7008EDC07 /* RacesManagable+Mock.swift */; };
+		2FD9107E2AF2A02D001995F7 /* RaceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD9107D2AF2A02C001995F7 /* RaceViewModel.swift */; };
+		2FE08AA32AF61914000F4115 /* Color+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE08AA22AF61914000F4115 /* Color+Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,16 +56,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F051C472AF742FC003FF466 /* RaceManagerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceManagerTests.swift; sourceTree = "<group>"; };
+		2F051C492AF76D5F003FF466 /* RaceListViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceListViewModelTests.swift; sourceTree = "<group>"; };
+		2F051C4C2AF76FA8003FF466 /* RacesScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RacesScreen.swift; sourceTree = "<group>"; };
+		2F051C4D2AF76FA8003FF466 /* TestingScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestingScreen.swift; sourceTree = "<group>"; };
+		2F051C502AF7701D003FF466 /* RaceListUITests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RaceListUITests.swift; sourceTree = "<group>"; };
+		2F0840322AE8B8F6007162E2 /* RaceListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceListView.swift; sourceTree = "<group>"; };
+		2F0840352AE8B955007162E2 /* RaceListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceListViewModel.swift; sourceTree = "<group>"; };
+		2F0840382AE8BC46007162E2 /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
+		2F08403B2AE8BC91007162E2 /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
+		2F08403D2AE8BD13007162E2 /* RaceService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceService.swift; sourceTree = "<group>"; };
+		2F08403F2AE8C1EF007162E2 /* RacesEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacesEndpoint.swift; sourceTree = "<group>"; };
+		2F0840422AE8C2CF007162E2 /* RacesResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacesResponse.swift; sourceTree = "<group>"; };
+		2F0840442AE8C44E007162E2 /* RacesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacesManager.swift; sourceTree = "<group>"; };
+		2F0840472AE8C5A8007162E2 /* Mockable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mockable.swift; sourceTree = "<group>"; };
+		2F0840492AE8C5C8007162E2 /* RacesServiceMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacesServiceMock.swift; sourceTree = "<group>"; };
+		2F08404B2AE8C693007162E2 /* RacesServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacesServiceTests.swift; sourceTree = "<group>"; };
 		2F445EBF2AE87BCF002ACC0F /* EntainTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EntainTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F445EC22AE87BCF002ACC0F /* EntainTaskApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntainTaskApp.swift; sourceTree = "<group>"; };
-		2F445EC42AE87BCF002ACC0F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2F445EC62AE87BD2002ACC0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F445EC92AE87BD2002ACC0F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2F445ECF2AE87BD2002ACC0F /* EntainTaskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EntainTaskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F445ED32AE87BD2002ACC0F /* EntainTaskTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntainTaskTests.swift; sourceTree = "<group>"; };
 		2F445ED92AE87BD2002ACC0F /* EntainTaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EntainTaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F445EDD2AE87BD2002ACC0F /* EntainTaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntainTaskUITests.swift; sourceTree = "<group>"; };
-		2F445EDF2AE87BD2002ACC0F /* EntainTaskUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntainTaskUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2F54418D2AF0A9CA001F254C /* Selectable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Selectable.swift; sourceTree = "<group>"; };
+		2F54418F2AF12537001F254C /* RaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceView.swift; sourceTree = "<group>"; };
+		2F5441912AF12BE3001F254C /* Date+Format.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Format.swift"; sourceTree = "<group>"; };
+		2F65B1172AF7D1E4007FF41A /* GlobalConvenienceMethods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalConvenienceMethods.swift; sourceTree = "<group>"; };
+		2FC637192AEB6EF0008EDC07 /* race_response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = race_response.json; sourceTree = "<group>"; };
+		2FC6371B2AEB72E1008EDC07 /* RacesManagable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacesManagable.swift; sourceTree = "<group>"; };
+		2FC6371D2AEB7B54008EDC07 /* RaceDisplayable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceDisplayable.swift; sourceTree = "<group>"; };
+		2FC637202AEBBEA7008EDC07 /* RacesManagable+Mock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RacesManagable+Mock.swift"; sourceTree = "<group>"; };
+		2FD9107D2AF2A02C001995F7 /* RaceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceViewModel.swift; sourceTree = "<group>"; };
+		2FE08AA22AF61914000F4115 /* Color+Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Utils.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +115,88 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2F051C452AF737C5003FF466 /* DonaimLayer */ = {
+			isa = PBXGroup;
+			children = (
+				2F051C472AF742FC003FF466 /* RaceManagerTests.swift */,
+			);
+			path = DonaimLayer;
+			sourceTree = "<group>";
+		};
+		2F051C462AF737D7003FF466 /* PresentationLayer */ = {
+			isa = PBXGroup;
+			children = (
+				2F051C492AF76D5F003FF466 /* RaceListViewModelTests.swift */,
+			);
+			path = PresentationLayer;
+			sourceTree = "<group>";
+		};
+		2F051C4B2AF76F95003FF466 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				2F051C4C2AF76FA8003FF466 /* RacesScreen.swift */,
+				2F051C4D2AF76FA8003FF466 /* TestingScreen.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		2F0840312AE8B8E6007162E2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2F0840322AE8B8F6007162E2 /* RaceListView.swift */,
+				2F54418F2AF12537001F254C /* RaceView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2F0840342AE8B945007162E2 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				2F0840352AE8B955007162E2 /* RaceListViewModel.swift */,
+				2FD9107D2AF2A02C001995F7 /* RaceViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		2F0840372AE8BC1D007162E2 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				2F0840412AE8C2A0007162E2 /* Races */,
+				2F08403A2AE8BC6F007162E2 /* Models */,
+				2F0840382AE8BC46007162E2 /* Endpoint.swift */,
+				2F08403B2AE8BC91007162E2 /* HTTPClient.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		2F08403A2AE8BC6F007162E2 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2F0840422AE8C2CF007162E2 /* RacesResponse.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		2F0840412AE8C2A0007162E2 /* Races */ = {
+			isa = PBXGroup;
+			children = (
+				2F08403D2AE8BD13007162E2 /* RaceService.swift */,
+				2F08403F2AE8C1EF007162E2 /* RacesEndpoint.swift */,
+			);
+			path = Races;
+			sourceTree = "<group>";
+		};
+		2F0840462AE8C59B007162E2 /* NetworkLayer */ = {
+			isa = PBXGroup;
+			children = (
+				2FC637182AEB6E69008EDC07 /* Resources */,
+				2F0840472AE8C5A8007162E2 /* Mockable.swift */,
+				2F0840492AE8C5C8007162E2 /* RacesServiceMock.swift */,
+				2F08404B2AE8C693007162E2 /* RacesServiceTests.swift */,
+			);
+			path = NetworkLayer;
+			sourceTree = "<group>";
+		};
 		2F445EB62AE87BCF002ACC0F = {
 			isa = PBXGroup;
 			children = (
@@ -94,8 +220,11 @@
 		2F445EC12AE87BCF002ACC0F /* EntainTask */ = {
 			isa = PBXGroup;
 			children = (
+				2F54418C2AF0A9BC001F254C /* Shared */,
+				2F445EEE2AE8AC2B002ACC0F /* DataLayer */,
+				2F445EED2AE8AC24002ACC0F /* DomainLayer */,
+				2F445EEC2AE8AC12002ACC0F /* PresentationLayer */,
 				2F445EC22AE87BCF002ACC0F /* EntainTaskApp.swift */,
-				2F445EC42AE87BCF002ACC0F /* ContentView.swift */,
 				2F445EC62AE87BD2002ACC0F /* Assets.xcassets */,
 				2F445EC82AE87BD2002ACC0F /* Preview Content */,
 			);
@@ -113,7 +242,9 @@
 		2F445ED22AE87BD2002ACC0F /* EntainTaskTests */ = {
 			isa = PBXGroup;
 			children = (
-				2F445ED32AE87BD2002ACC0F /* EntainTaskTests.swift */,
+				2F051C462AF737D7003FF466 /* PresentationLayer */,
+				2F051C452AF737C5003FF466 /* DonaimLayer */,
+				2F0840462AE8C59B007162E2 /* NetworkLayer */,
 			);
 			path = EntainTaskTests;
 			sourceTree = "<group>";
@@ -121,10 +252,73 @@
 		2F445EDC2AE87BD2002ACC0F /* EntainTaskUITests */ = {
 			isa = PBXGroup;
 			children = (
-				2F445EDD2AE87BD2002ACC0F /* EntainTaskUITests.swift */,
-				2F445EDF2AE87BD2002ACC0F /* EntainTaskUITestsLaunchTests.swift */,
+				2F051C4B2AF76F95003FF466 /* Screens */,
+				2F051C502AF7701D003FF466 /* RaceListUITests.swift */,
 			);
 			path = EntainTaskUITests;
+			sourceTree = "<group>";
+		};
+		2F445EEC2AE8AC12002ACC0F /* PresentationLayer */ = {
+			isa = PBXGroup;
+			children = (
+				2FE08AA12AF61901000F4115 /* Shared */,
+				2F0840342AE8B945007162E2 /* ViewModels */,
+				2F0840312AE8B8E6007162E2 /* Views */,
+			);
+			path = PresentationLayer;
+			sourceTree = "<group>";
+		};
+		2F445EED2AE8AC24002ACC0F /* DomainLayer */ = {
+			isa = PBXGroup;
+			children = (
+				2FC6371F2AEBBE9A008EDC07 /* Mock */,
+				2F0840442AE8C44E007162E2 /* RacesManager.swift */,
+				2FC6371B2AEB72E1008EDC07 /* RacesManagable.swift */,
+				2FC6371D2AEB7B54008EDC07 /* RaceDisplayable.swift */,
+			);
+			path = DomainLayer;
+			sourceTree = "<group>";
+		};
+		2F445EEE2AE8AC2B002ACC0F /* DataLayer */ = {
+			isa = PBXGroup;
+			children = (
+				2F0840372AE8BC1D007162E2 /* Network */,
+			);
+			path = DataLayer;
+			sourceTree = "<group>";
+		};
+		2F54418C2AF0A9BC001F254C /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				2F65B1172AF7D1E4007FF41A /* GlobalConvenienceMethods.swift */,
+				2F54418D2AF0A9CA001F254C /* Selectable.swift */,
+				2F5441912AF12BE3001F254C /* Date+Format.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		2FC637182AEB6E69008EDC07 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2FC637192AEB6EF0008EDC07 /* race_response.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		2FC6371F2AEBBE9A008EDC07 /* Mock */ = {
+			isa = PBXGroup;
+			children = (
+				2FC637202AEBBEA7008EDC07 /* RacesManagable+Mock.swift */,
+			);
+			path = Mock;
+			sourceTree = "<group>";
+		};
+		2FE08AA12AF61901000F4115 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				2FE08AA22AF61914000F4115 /* Color+Utils.swift */,
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,6 +434,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FC6371A2AEB6EF0008EDC07 /* race_response.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +452,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F445EC52AE87BCF002ACC0F /* ContentView.swift in Sources */,
+				2F08403E2AE8BD13007162E2 /* RaceService.swift in Sources */,
+				2F5441902AF12537001F254C /* RaceView.swift in Sources */,
+				2F0840362AE8B955007162E2 /* RaceListViewModel.swift in Sources */,
+				2F08403C2AE8BC91007162E2 /* HTTPClient.swift in Sources */,
+				2FE08AA32AF61914000F4115 /* Color+Utils.swift in Sources */,
+				2F65B1182AF7D1E4007FF41A /* GlobalConvenienceMethods.swift in Sources */,
+				2FC637212AEBBEA7008EDC07 /* RacesManagable+Mock.swift in Sources */,
+				2FD9107E2AF2A02D001995F7 /* RaceViewModel.swift in Sources */,
+				2FC6371C2AEB72E1008EDC07 /* RacesManagable.swift in Sources */,
+				2F5441922AF12BE3001F254C /* Date+Format.swift in Sources */,
+				2F0840332AE8B8F6007162E2 /* RaceListView.swift in Sources */,
+				2F0840402AE8C1EF007162E2 /* RacesEndpoint.swift in Sources */,
+				2F0840432AE8C2CF007162E2 /* RacesResponse.swift in Sources */,
+				2F0840392AE8BC46007162E2 /* Endpoint.swift in Sources */,
 				2F445EC32AE87BCF002ACC0F /* EntainTaskApp.swift in Sources */,
+				2FC6371E2AEB7B54008EDC07 /* RaceDisplayable.swift in Sources */,
+				2F54418E2AF0A9CA001F254C /* Selectable.swift in Sources */,
+				2F0840452AE8C44E007162E2 /* RacesManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +477,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F445ED42AE87BD2002ACC0F /* EntainTaskTests.swift in Sources */,
+				2F08404C2AE8C693007162E2 /* RacesServiceTests.swift in Sources */,
+				2F08404A2AE8C5C8007162E2 /* RacesServiceMock.swift in Sources */,
+				2F051C482AF742FD003FF466 /* RaceManagerTests.swift in Sources */,
+				2F0840482AE8C5A8007162E2 /* Mockable.swift in Sources */,
+				2F051C4A2AF76D60003FF466 /* RaceListViewModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +489,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F445EE02AE87BD2002ACC0F /* EntainTaskUITestsLaunchTests.swift in Sources */,
-				2F445EDE2AE87BD2002ACC0F /* EntainTaskUITests.swift in Sources */,
+				2F051C4F2AF76FA8003FF466 /* TestingScreen.swift in Sources */,
+				2F051C4E2AF76FA8003FF466 /* RacesScreen.swift in Sources */,
+				2F051C512AF7701D003FF466 /* RaceListUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

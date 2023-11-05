@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5CFB4D44-473E-4AAE-9567-A91620C0D2E8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4009033-37C2-4E3F-BBC1-F2516B022767"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EntainTask/Data/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4009033-37C2-4E3F-BBC1-F2516B022767 - d0179601811e00f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "2953">
+               </Location>
+               <Location
+                  uuid = "A4009033-37C2-4E3F-BBC1-F2516B022767 - d0179601811e00f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "2795">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5C05DE7-17F9-4F6F-882F-CC8DF21AEF90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EntainTask/Data/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5C05DE7-17F9-4F6F-882F-CC8DF21AEF90 - d0179601811e035e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "3502">
+               </Location>
+               <Location
+                  uuid = "E5C05DE7-17F9-4F6F-882F-CC8DF21AEF90 - 9e587836560aa55f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "378">
+               </Location>
+               <Location
+                  uuid = "E5C05DE7-17F9-4F6F-882F-CC8DF21AEF90 - d0179601811e033d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "3012">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E2EB3BC-090A-4BE7-ABC3-A6F996A40123"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EntainTask/Data/Network/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "sendRequest(endpoint:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E2EB3BC-090A-4BE7-ABC3-A6F996A40123 - 7c85a5bd3fc4bfb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+               <Location
+                  uuid = "9E2EB3BC-090A-4BE7-ABC3-A6F996A40123 - d0179601811e03b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "3849">
+               </Location>
+               <Location
+                  uuid = "9E2EB3BC-090A-4BE7-ABC3-A6F996A40123 - 9e587836560aa5b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "719">
+               </Location>
+               <Location
+                  uuid = "9E2EB3BC-090A-4BE7-ABC3-A6F996A40123 - d0179601811e0398"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "3541">
+               </Location>
+               <Location
+                  uuid = "9E2EB3BC-090A-4BE7-ABC3-A6F996A40123 - 9e587836560aa599"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for EntainTask.HTTPClient.sendRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(endpoint: EntainTask.Endpoint, responseModel: &#x3c4;_1_0.Type) async throws -&gt; &#x3c4;_1_0"
+                  moduleName = "EntainTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dipeshdhakal/Desktop/EntainTask/EntainTask/Data/Network/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "418">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

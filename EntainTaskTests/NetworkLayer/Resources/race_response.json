@@ -1,0 +1,440 @@
+{
+  "status": 200,
+  "data": {
+    "next_to_go_ids": [
+      "662ec223-6ce8-4516-8b5d-8a54d694fc38",
+      "a162bfe0-548b-488f-bde4-b309bfe67e02",
+      "6ffd6fa8-5193-4fe8-a385-1e1301b26472",
+      "18b363a8-fcdb-489e-9e48-b81ef4dd948c",
+      "8a486049-ec0b-4fa9-a01d-8f6f23930b35",
+      "839609a5-3e67-402b-bd46-8f9e48d9395c",
+      "760cb711-d811-4f7c-94b9-b000c093ac6e",
+      "4b5f8c34-b391-43d1-99ff-9ff0ce55f874",
+      "d91ffe17-a5b4-49a7-bcb0-9f506a8dedf9",
+      "3df263e2-e28b-4b0e-ae5c-59ad446b0772"
+    ],
+    "race_summaries": {
+      "18b363a8-fcdb-489e-9e48-b81ef4dd948c": {
+        "race_id": "18b363a8-fcdb-489e-9e48-b81ef4dd948c",
+        "race_name": "Tab Empire Rose Stakes",
+        "race_number": 8,
+        "meeting_id": "f02f5bb1-e569-4a6e-aa6a-5bfce4555b76",
+        "meeting_name": "Flemington",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699077600
+        },
+        "race_form": {
+          "distance": 1600,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+            "name": "Good3",
+            "short_name": "good3"
+          },
+          "track_condition_id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "ALCOHOL FREE (1) gets to the mile fourth up from a spell which looks to suit as a dual G1 winner over the trip overseas. She ran her best Australian race last start in The Invitation when fourth, beaten 0.7 lengths by Espiona and looks to get the perfect run behind a good speed here. ATISHU (4) had no hope back in the field in the G1 King Charles III last start. She was very good in this race last year and will be storming home off a strong tempo. HOPE IN YOUR HEART (3) doesn't know how to run a bad race and with any luck from the inside gate will be in the finish. WISHLOR LASS (14) keeps raising the bar and will be rock hard fit on the backup. PRINCESS GRACE (2) was disappointing considering her SP last start but can bounce back.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Flemington\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":8,\"race_name\":\"Tab Empire Rose Stakes\",\"time\":\"2023-11-04T06:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ALCOHOL FREE (1) gets to the mile fourth up from a spell which looks to suit as a dual G1 winner over the trip overseas. She ran her best Australian race last start in The Invitation when fourth, beaten 0.7 lengths by Espiona and looks to get the perfect run behind a good speed here. ATISHU (4) had no hope back in the field in the G1 King Charles III last start. She was very good in this race last year and will be storming home off a strong tempo. HOPE IN YOUR HEART (3) doesn't know how to run a bad race and with any luck from the inside gate will be in the finish. WISHLOR LASS (14) keeps raising the bar and will be rock hard fit on the backup. PRINCESS GRACE (2) was disappointing considering her SP last start but can bounce back."
+        },
+        "venue_id": "ff7dc0ac-893a-445e-bc6d-9de002a2d1f8",
+        "venue_name": "Flemington",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "3df263e2-e28b-4b0e-ae5c-59ad446b0772": {
+        "race_id": "3df263e2-e28b-4b0e-ae5c-59ad446b0772",
+        "race_name": "Race 3 - 1175M",
+        "race_number": 3,
+        "meeting_id": "56d8d7e0-a91d-4a1a-a1cb-b93dcefa4f03",
+        "meeting_name": "Selangor",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699078500
+        },
+        "race_form": {
+          "distance": 1175,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+            "name": "Soft",
+            "short_name": "soft"
+          },
+          "track_condition_id": "906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "CANDY RAIN (5) saluted at this track two runs ago. Fair effort last time out when in contention on the bend before finishing second over 1300m at this track, beaten 2 lengths. Nicely placed to take this out. LET'S COME ON BABY (6) turned things around last start and scored by 1.75 lengths after being in the firing line on the turn as public elect over 1075m at this track. Meets a stronger field but he is good enough to figure in the finish. MY FIRST MILLION (10) scored two runs back then was popular with punters last time but could only manage to finish eighth over the same trip at this track. Has his share of talent. Hard to beat in this suitable race. HANDSOME BOY (3) was out of the money when resuming from a spell last start over 1250m at this track, beaten 4 lengths. Fitter so watch for a better performance.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Selangor\",\"state\":\"MYS\",\"country\":\"MYS\",\"number\":3,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "CANDY RAIN (5) saluted at this track two runs ago. Fair effort last time out when in contention on the bend before finishing second over 1300m at this track, beaten 2 lengths. Nicely placed to take this out. LET'S COME ON BABY (6) turned things around last start and scored by 1.75 lengths after being in the firing line on the turn as public elect over 1075m at this track. Meets a stronger field but he is good enough to figure in the finish. MY FIRST MILLION (10) scored two runs back then was popular with punters last time but could only manage to finish eighth over the same trip at this track. Has his share of talent. Hard to beat in this suitable race. HANDSOME BOY (3) was out of the money when resuming from a spell last start over 1250m at this track, beaten 4 lengths. Fitter so watch for a better performance."
+        },
+        "venue_id": "d39fd66a-e0fe-4fab-88ae-023834ba177e",
+        "venue_name": "Selangor",
+        "venue_state": "MYS",
+        "venue_country": "MYS"
+      },
+      "4b5f8c34-b391-43d1-99ff-9ff0ce55f874": {
+        "race_id": "4b5f8c34-b391-43d1-99ff-9ff0ce55f874",
+        "race_name": "John Letts Cup",
+        "race_number": 9,
+        "meeting_id": "571dce3c-f55b-40b1-b8b0-245c3aea72e1",
+        "meeting_name": "Morphettville",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699078320
+        },
+        "race_form": {
+          "distance": 1800,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+            "name": "Good3",
+            "short_name": "good3"
+          },
+          "track_condition_id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "ARRAN BAY (4) stuck on gamely into a midfield finish last start at Caulfield when tackling G3 company. Not as tough this time and is a winner at this venue. Best efforts put him right in the thick of it. PARTY PRINCESS (10) is yet to strike through this time in but has been holding her own against stronger opposition in Victoria. Will enjoy this easier task and will benefit linking back up with Jason Holder. Sure to be very competitive. PUDDING (5) bounced straight back to form last start here when digging deep to score by a neck. Tougher this time but is drawn favourably again. Don't dismiss. Group 3 placegetter CAPTAIN ENVIOUS (3) raced on the speed from the outset last start and finished third over 2100m at Horsham. Needs to be at his best to beat this field but he deserves his chance.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Morphettville\",\"state\":\"SA\",\"country\":\"AUS\",\"number\":9,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ARRAN BAY (4) stuck on gamely into a midfield finish last start at Caulfield when tackling G3 company. Not as tough this time and is a winner at this venue. Best efforts put him right in the thick of it. PARTY PRINCESS (10) is yet to strike through this time in but has been holding her own against stronger opposition in Victoria. Will enjoy this easier task and will benefit linking back up with Jason Holder. Sure to be very competitive. PUDDING (5) bounced straight back to form last start here when digging deep to score by a neck. Tougher this time but is drawn favourably again. Don't dismiss. Group 3 placegetter CAPTAIN ENVIOUS (3) raced on the speed from the outset last start and finished third over 2100m at Horsham. Needs to be at his best to beat this field but he deserves his chance."
+        },
+        "venue_id": "e9f5f48d-18c0-4279-bc83-c2e4bdb67a0d",
+        "venue_name": "Morphettville",
+        "venue_state": "SA",
+        "venue_country": "AUS"
+      },
+      "662ec223-6ce8-4516-8b5d-8a54d694fc38": {
+        "race_id": "662ec223-6ce8-4516-8b5d-8a54d694fc38",
+        "race_name": "Bluedust Nt Hcp (66)",
+        "race_number": 2,
+        "meeting_id": "9af2dc18-b57c-4f48-8aab-6cf7ea93ec5d",
+        "meeting_name": "Alice Springs",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699077300
+        },
+        "race_form": {
+          "distance": 1200,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "FLYING YISHU (1) has thrived since making the move from Victoria before the start of this prep. He finished runner-up as favourite here three weeks ago and with the benefit of a claim this time, he can go one better. RED WRAITH (2) did not take long to adapt to his new surroundings and after a fair effort fresh up in the area, he has gone back to back, including a last start win by four lengths. An extra furlong will be no problem and he can complete the hat-trick. NALABELLE (3) led up and stopped quickly as favourite in her last run which was just on a year ago. Since then she has made a move to the local Paul Gardner stable and a tote watch is advised. PARIAH CONVICTION (4) is resuming from a short spell that would have done him the world of good. He has a good draw and his two-kilo claim is also an assist. If he is not in need of the run, he should be thereabouts.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Alice Springs\",\"state\":\"NT\",\"country\":\"AUS\",\"number\":2,\"race_name\":\"Bluedust Nt Hcp (66)\",\"time\":\"2023-11-04T05:55:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "FLYING YISHU (1) has thrived since making the move from Victoria before the start of this prep. He finished runner-up as favourite here three weeks ago and with the benefit of a claim this time, he can go one better. RED WRAITH (2) did not take long to adapt to his new surroundings and after a fair effort fresh up in the area, he has gone back to back, including a last start win by four lengths. An extra furlong will be no problem and he can complete the hat-trick. NALABELLE (3) led up and stopped quickly as favourite in her last run which was just on a year ago. Since then she has made a move to the local Paul Gardner stable and a tote watch is advised. PARIAH CONVICTION (4) is resuming from a short spell that would have done him the world of good. He has a good draw and his two-kilo claim is also an assist. If he is not in need of the run, he should be thereabouts."
+        },
+        "venue_id": "afa0f0ad-50a1-43ff-82c3-c229722cfb36",
+        "venue_name": "Alice Springs",
+        "venue_state": "NT",
+        "venue_country": "AUS"
+      },
+      "6ffd6fa8-5193-4fe8-a385-1e1301b26472": {
+        "race_id": "6ffd6fa8-5193-4fe8-a385-1e1301b26472",
+        "race_name": "Hcp (C4)",
+        "race_number": 5,
+        "meeting_id": "89ab6da5-4d96-4d5d-89fa-b344130872a8",
+        "meeting_name": "Kranji",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699077600
+        },
+        "race_form": {
+          "distance": 1200,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+            "name": "Synthetic",
+            "short_name": "synthetic"
+          },
+          "track_condition_id": "9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "\r\nGOLDEN BROWN (6) is a genuine four-year-old who has not been produced since finishing a close second over this course and distance eight weeks ago. Won a trial in good fashion on 24 October to keep him ticking over. Clearly the testing material. WAR PRIDE (1) returns from a 21-week spell. Very good fresh performer whose best results have come at this distance - three wins and ten minor placings from 25 attempts. Two recent trials will have him up to the mark. PALETAS (2) enjoyed the step back in grade last time when third over today's journey. Has a tough gate to contend with but he looks sure to be prominent again. KICK (4) was given a five-week let-up after a poor effort over this trip on turf at his latest appearance. Placed 7/12 at 1200m so cannot be dismissed.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kranji\",\"state\":\"SGP\",\"country\":\"SGP\",\"number\":5,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "\r\nGOLDEN BROWN (6) is a genuine four-year-old who has not been produced since finishing a close second over this course and distance eight weeks ago. Won a trial in good fashion on 24 October to keep him ticking over. Clearly the testing material. WAR PRIDE (1) returns from a 21-week spell. Very good fresh performer whose best results have come at this distance - three wins and ten minor placings from 25 attempts. Two recent trials will have him up to the mark. PALETAS (2) enjoyed the step back in grade last time when third over today's journey. Has a tough gate to contend with but he looks sure to be prominent again. KICK (4) was given a five-week let-up after a poor effort over this trip on turf at his latest appearance. Placed 7/12 at 1200m so cannot be dismissed."
+        },
+        "venue_id": "3ded07ff-f149-4194-818c-e924e81b9cc3",
+        "venue_name": "Kranji",
+        "venue_state": "SGP",
+        "venue_country": "SGP"
+      },
+      "760cb711-d811-4f7c-94b9-b000c093ac6e": {
+        "race_id": "760cb711-d811-4f7c-94b9-b000c093ac6e",
+        "race_name": "Triple M's $1000 Minute (Bm60)",
+        "race_number": 5,
+        "meeting_id": "cf276a53-7785-418a-ab35-c7c403652d88",
+        "meeting_name": "Gold Coast Poly",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699078140
+        },
+        "race_form": {
+          "distance": 2000,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+            "name": "Synthetic",
+            "short_name": "synthetic"
+          },
+          "track_condition_id": "9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "ZOOMURUDI (1) just missed and then won here easily at 1900m before a solid effort in a 68 at the Sunshine Coast. Comes back 200 and keeps the handy 3kg claim. A bounce is likely. SEERESS (7) finished ahead of ZOOMURUDI at the Coast spiking her figures. Has a 3kg claim and can't be ruled out. SADDLES (3) is on a 7-day return and is in the mix.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Gold Coast Poly\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":5,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ZOOMURUDI (1) just missed and then won here easily at 1900m before a solid effort in a 68 at the Sunshine Coast. Comes back 200 and keeps the handy 3kg claim. A bounce is likely. SEERESS (7) finished ahead of ZOOMURUDI at the Coast spiking her figures. Has a 3kg claim and can't be ruled out. SADDLES (3) is on a 7-day return and is in the mix."
+        },
+        "venue_id": "298980bd-8e29-4ea5-9936-e14cd8c64a78",
+        "venue_name": "Gold Coast Poly",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "839609a5-3e67-402b-bd46-8f9e48d9395c": {
+        "race_id": "839609a5-3e67-402b-bd46-8f9e48d9395c",
+        "race_name": "Hunter Land Management Mdn Hcp",
+        "race_number": 7,
+        "meeting_id": "e2f393ac-a148-46f1-a971-0e39bfeeac34",
+        "meeting_name": "Newcastle",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699077900
+        },
+        "race_form": {
+          "distance": 1300,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "11d7e662-487a-11ea-9d54-4689356d4521",
+            "name": "Good4",
+            "short_name": "good4"
+          },
+          "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "GALAXY FIELD (12) made good late ground on debut after trialling well. Up in trip with added fitness has genuine claims. NY KEE (9) showed improvement at start number two and looks suited by the added trip. Definite threat in an open race. NICCI'S GEM (6) was excellent on debut in Autumn and two recent trials have been sharp. Pay to follow first up. COSMOS (14) turned in a much better run at her second appearance last time out when fourth over 1200m at Kembla Grange. Has further upside and looks ready to break through.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Newcastle\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":7,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "GALAXY FIELD (12) made good late ground on debut after trialling well. Up in trip with added fitness has genuine claims. NY KEE (9) showed improvement at start number two and looks suited by the added trip. Definite threat in an open race. NICCI'S GEM (6) was excellent on debut in Autumn and two recent trials have been sharp. Pay to follow first up. COSMOS (14) turned in a much better run at her second appearance last time out when fourth over 1200m at Kembla Grange. Has further upside and looks ready to break through."
+        },
+        "venue_id": "4b331ca6-ee22-4b4e-a6ca-46c6d8bc4ba9",
+        "venue_name": "Newcastle",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "8a486049-ec0b-4fa9-a01d-8f6f23930b35": {
+        "race_id": "8a486049-ec0b-4fa9-a01d-8f6f23930b35",
+        "race_name": "Prydes Easifeed Biomare Cubes Plate (C1)",
+        "race_number": 6,
+        "meeting_id": "96bd3efe-a87a-4e9f-9d96-6a3b79ed5a4d",
+        "meeting_name": "Beaudesert",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699077720
+        },
+        "race_form": {
+          "distance": 1200,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "081c1e04-a6ed-11e7-96c3-0656c85e309e",
+            "name": "Soft6",
+            "short_name": "soft6"
+          },
+          "track_condition_id": "081c1e04-a6ed-11e7-96c3-0656c85e309e",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "JOY MCCOY (6) stepping out at this course for the first time. Last appeared when he finished fifth over 1250m at Morphettville Parks on September 23. Draws well and is a strong winning chance. WHITE RIBBON (10) was in the firing line on the corner and finished third last start over 1100m at Toowoomba. Ideally placed and is sure to give this a mighty shake. GOING TO THE SUN (5) was below his best last time when eighth over 1300m at Toowoomba, beaten 4.5 lengths. Likely improver with top-three prospects. CRAZY EYED FRED (3) turned in a better run last time out when fifth over 1200m at Toowoomba, beaten 1.75 lengths. Likely to measure up.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Beaudesert\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"Prydes Easifeed Biomare Cubes Plate (C1)\",\"time\":\"2023-11-04T06:02:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "JOY MCCOY (6) stepping out at this course for the first time. Last appeared when he finished fifth over 1250m at Morphettville Parks on September 23. Draws well and is a strong winning chance. WHITE RIBBON (10) was in the firing line on the corner and finished third last start over 1100m at Toowoomba. Ideally placed and is sure to give this a mighty shake. GOING TO THE SUN (5) was below his best last time when eighth over 1300m at Toowoomba, beaten 4.5 lengths. Likely improver with top-three prospects. CRAZY EYED FRED (3) turned in a better run last time out when fifth over 1200m at Toowoomba, beaten 1.75 lengths. Likely to measure up."
+        },
+        "venue_id": "2200a495-5c13-4b32-b40f-0da97bf5f0cf",
+        "venue_name": "Beaudesert",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "a162bfe0-548b-488f-bde4-b309bfe67e02": {
+        "race_id": "a162bfe0-548b-488f-bde4-b309bfe67e02",
+        "race_name": "Jle Group (Bm58)",
+        "race_number": 6,
+        "meeting_id": "9a4b69c5-406c-45ca-adff-ba0c8af1c6f9",
+        "meeting_name": "Dubbo",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699077360
+        },
+        "race_form": {
+          "distance": 1300,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "11d7e662-487a-11ea-9d54-4689356d4521",
+            "name": "Good4",
+            "short_name": "good4"
+          },
+          "track_condition_id": "11d7e662-487a-11ea-9d54-4689356d4521",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "OWHATA CRUMPET (8) tough old mare back in trip for this after running fifth over 1600m at Coonamble on October 8. Some of her best runs have been over the 1300m. Expected to take a hand in the finish. OBEY (2) is trained on the track and will find this much easier after running eighth over 1400m at Coonabarabran on October 22. Claim helps and looks to have genuine top-three prospects. LAFFING WATERS (1) has come back well this time in winning two of her last three starts. Battled right to the line when second over 1300m at Bathurst on October 27. Quick backup suits and can take this out. INZAGHI (5) was runner-up last start beaten 0.6 lengths at Orange. Form this campaign has been good with two wins to date. Include.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Dubbo\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "OWHATA CRUMPET (8) tough old mare back in trip for this after running fifth over 1600m at Coonamble on October 8. Some of her best runs have been over the 1300m. Expected to take a hand in the finish. OBEY (2) is trained on the track and will find this much easier after running eighth over 1400m at Coonabarabran on October 22. Claim helps and looks to have genuine top-three prospects. LAFFING WATERS (1) has come back well this time in winning two of her last three starts. Battled right to the line when second over 1300m at Bathurst on October 27. Quick backup suits and can take this out. INZAGHI (5) was runner-up last start beaten 0.6 lengths at Orange. Form this campaign has been good with two wins to date. Include."
+        },
+        "venue_id": "be3a8291-647a-4c1f-b5f6-545b0911c839",
+        "venue_name": "Dubbo",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "d91ffe17-a5b4-49a7-bcb0-9f506a8dedf9": {
+        "race_id": "d91ffe17-a5b4-49a7-bcb0-9f506a8dedf9",
+        "race_name": "Bardi Certified Organic Beef Hcp (C2)",
+        "race_number": 2,
+        "meeting_id": "dce541e6-e4cc-4ceb-8bb1-8ed47ffe6262",
+        "meeting_name": "Kalgoorlie",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1699078440
+        },
+        "race_form": {
+          "distance": 1200,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+            "name": "Good3",
+            "short_name": "good3"
+          },
+          "track_condition_id": "908a410f-ab10-11e7-85e3-0641c90711b8",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "HEAR MY PRAYER (3) did not kick on as expected last time out over a mile and has been brought back to a sprint trip less than two weeks since that effort. He will get back early and if the gaps come his way he can finish off strongly. He can make amends in this average line-up. Each-way value. PACIFIC LADY (6) has mixed her form since winning her maiden by a short head at Pinjarra in August. She should find this a touch easier than those past few runs and can get a slice of this. BAALBEK (1) is having his third start for the local Peter Fernie stable and did show some improvement when finishing fifth here a month ago. He can put his best hoof forward in this at a nice each-way price. KELLY'S LI ZA LU (5) made light work of his rivals at Leonora last time out when scoring by two lengths. This is harder but her confidence is up and she can win again.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kalgoorlie\",\"state\":\"WA\",\"country\":\"AUS\",\"number\":2,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "HEAR MY PRAYER (3) did not kick on as expected last time out over a mile and has been brought back to a sprint trip less than two weeks since that effort. He will get back early and if the gaps come his way he can finish off strongly. He can make amends in this average line-up. Each-way value. PACIFIC LADY (6) has mixed her form since winning her maiden by a short head at Pinjarra in August. She should find this a touch easier than those past few runs and can get a slice of this. BAALBEK (1) is having his third start for the local Peter Fernie stable and did show some improvement when finishing fifth here a month ago. He can put his best hoof forward in this at a nice each-way price. KELLY'S LI ZA LU (5) made light work of his rivals at Leonora last time out when scoring by two lengths. This is harder but her confidence is up and she can win again."
+        },
+        "venue_id": "91e0db8c-62ec-44db-8418-d404ee1737e2",
+        "venue_name": "Kalgoorlie",
+        "venue_state": "WA",
+        "venue_country": "AUS"
+      }
+    }
+  },
+  "message": "Next 10 races from each category"
+}
